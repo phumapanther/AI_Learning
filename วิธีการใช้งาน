@@ -1,0 +1,6 @@
+เปิดคอมมาน
+python view/ชื่อไฟล์ที่จะรัน เอ็นเตอร์แล้วทดสอบ
+เช่น
+python .\view\bj24.py 
+python view/mat_ai.py
+python view/first_agent.py
